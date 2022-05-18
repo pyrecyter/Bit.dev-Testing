@@ -15,5 +15,11 @@
         "mainFile": "index.tsx",
         "rootDir": "src/components/counter"
     },
+    "notification": {
+        "scope": "pyrecyter.cportaltest",
+        "version": "0.0.1",
+        "mainFile": "index.tsx",
+        "rootDir": "src/components/notification"
+    },
     "$schema-version": "14.9.0"
 }
